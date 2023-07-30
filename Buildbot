@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xioami/jasmine_sprour" name="darkangels15/device_xiaomi_jasmine_sprout.git" remote="github" revision="lineage-18.1" />
+ <project path="device/xioami/jasmine_sproit" name="clarencelol/android_device_xiaomi_sdm660-common.git" remote="github" revision="lineage-18.1" />
+ <project path="vendor/xioami/jasmine_sprout" name="darkangels15/android_vendor_xiaomi_jasmine_sprout.git" remote="github" revision="master" />
+ <project path="kernel/xioami/jasmine_sprout" name="darkangels15/android_kernel_xiaomi_scarlet.git" remote="github" revision="lineage-18.1" />
+ 
+</manifest>
