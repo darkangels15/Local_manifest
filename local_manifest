@@ -21,6 +21,13 @@
         remote="git"
         revision="qti-haptics"
     />
+     <project
+        name="clarencelol/android_vendor_xiaomi_sdm660-common"
+        path="vendor/xiaomi/sdm660-common"
+        remote="git"
+        revision="13"
+    />
+
     <!-- Removed projects -->
     <remove-project name="android_device_qcom_sepolicy" />
     <remove-project name="ArrowOS/android_hardware_qcom_audio" />
