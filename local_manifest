@@ -26,6 +26,7 @@
         path="vendor/xiaomi/sdm660-common"
         remote="git"
         revision="13"
+      <project
     />
 
       <project
@@ -35,18 +36,18 @@
         revision="13"/>
        <project
     />
+       <project
         name="clarencelol/vendor_xiaomi_wayne-common"
         path="vendor/xiaomi/wayne-common"
         remote="git"
         revision="13"/>
        <project
     />
-
+       <project
         name="clarencelol/vendor_xiaomi_wayne-common"
         path="vendor/xiaomi/wayne-common"
         remote="git"
         revision="13"/>
-       <project
      />
 
     <!-- Removed projects -->
