@@ -28,6 +28,27 @@
         revision="13"
     />
 
+      <project
+        name="clarencelol/device_xiaomi_wayne-common"
+        path="device/xiaomi/wayne-common"
+        remote="git"
+        revision="13"/>
+       <project
+    />
+        name="clarencelol/vendor_xiaomi_wayne-common"
+        path="vendor/xiaomi/wayne-common"
+        remote="git"
+        revision="13"/>
+       <project
+    />
+
+        name="clarencelol/vendor_xiaomi_wayne-common"
+        path="vendor/xiaomi/wayne-common"
+        remote="git"
+        revision="13"/>
+       <project
+     />
+
     <!-- Removed projects -->
     <remove-project name="android_device_qcom_sepolicy" />
     <remove-project name="ArrowOS/android_hardware_qcom_audio" />
