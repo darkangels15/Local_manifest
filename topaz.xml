@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="git" fetch="https://github.com"/>
+  <remote name="glab" fetch="https://gitlab.com"/>
+  <project
+
+    name="darkangels15/android_device_xiaomi_topaz"
+    path="device/xiaomi/topaz"
+    remote="git"
+    revision="15"/>
+  <project
+    name="darkangels15/proprietary_vendor_xiaomi_topaz"
+    path="vendor/xiaomi/topaz"
+    remote="git"
+    revision="15.0"/>
+  <project    
+    name="darkangels15/android_kernel_xiaomi_topaz"
+    path="kernel/xiaomi/topaz"
+    remote="git"
+    revision="15"/>
+</manifest>
